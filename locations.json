@@ -8,5 +8,15 @@
  { "name": "Abromson Center",    "campus": "Portland", "latitude": 43.6616589, "longitude": -70.2744592 },
  { "name": "Wishcamper Center",  "campus": "Portland", "latitude": 43.6618878, "longitude": -70.2739120 },
  { "name": "Glickman Library",   "campus": "Portland", "latitude": 43.6623225, "longitude": -70.2727801 },
- { "name": "Campus Center",      "campus": "Portland", "latitude": 43.6629841, "longitude": -70.2732522 }
+ { "name": "Campus Center",      "campus": "Portland", "latitude": 43.6629841, "longitude": -70.2732522 },
+ { "name": "Ice Arena",      			"campus": "Gorham", "latitude": 43.682761, "longitude":  -70.450955 },
+ { "name": "USM Field House",      		"campus": "Gorham", "latitude": 43.683091, "longitude":  -70.448917 },
+ { "name": "Russell Hall",      			"campus": "Gorham", "latitude": 43.681289, "longitude": -70.447578 },
+ { "name": "Bailey Hall",      			"campus": "Gorham", "latitude": 43.680455, "longitude": -70.449482 },
+ { "name": "Philippi Hall",      		"campus": "Gorham", "latitude": 43.683629, "longitude": -70.447497 },
+ { "name": "John Mitchell Center",      	"campus": "Gorham", "latitude": 43.681961, "longitude": -70.451091 },
+ { "name": "Upperclass Hall",      		"campus": "Gorham", "latitude": 43.681135, "longitude":  -70.451035 },
+ { "name": "Aderson Hall",      			"campus": "Gorham", "latitude": 43.682058, "longitude":  -70.448374 },
+ { "name": "Historic District",      	"campus": "Gorham", "latitude": 43.681445, "longitude":  -70.448910 },
+ { "name": "Warren Hill Gymnasiun",      "campus": "Gorham", "latitude": 43.682764, "longitude":  -70.449972 }
 ]
