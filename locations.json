@@ -1,6 +1,6 @@
 [
  { "name": "Luther Bonney Hall", "campus": "Portland", "latitude": 43.6621171, "longitude": -70.2760328 },
- { "name": "Payson Smith Hall",  "campus": "Portland", "latitude": 43.662321,  "longitude": -70.2756922 },
+ { "name": "Payson Smith Hall",  "campus": "Portland", "latitude": 43.662204,  "longitude": -70.277659 },
  { "name": "Science Building",   "campus": "Portland", "latitude": 43.662836,  "longitude": -70.2765575 },
  { "name": "Masterton Hall",     "campus": "Portland", "latitude": 43.6622075, "longitude": -70.2755592 },
  { "name": "Law School",         "campus": "Portland", "latitude": 43.6615509, "longitude": -70.2782536 },
@@ -9,6 +9,7 @@
  { "name": "Wishcamper Center",  "campus": "Portland", "latitude": 43.6618878, "longitude": -70.2739120 },
  { "name": "Glickman Library",   "campus": "Portland", "latitude": 43.6623225, "longitude": -70.2727801 },
  { "name": "Campus Center",      "campus": "Portland", "latitude": 43.6629841, "longitude": -70.2732522 },
+ { “name”: "Parking Garage", "campus": "Portland", "latitude": 43.661567, "longitude": -70.274855 },
  { "name": "Ice Arena",      			"campus": "Gorham", "latitude": 43.682761, "longitude":  -70.450955 },
  { "name": "USM Field House",      		"campus": "Gorham", "latitude": 43.683091, "longitude":  -70.448917 },
  { "name": "Russell Hall",      			"campus": "Gorham", "latitude": 43.681289, "longitude": -70.447578 },
